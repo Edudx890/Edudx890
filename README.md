@@ -4,7 +4,7 @@
 🇧🇷 Brazil | Open to remote opportunities
 
 I build **real-world applications**, focusing on **clean code, performance, and scalable solutions**.
-Currently exploring **backend development, data analysis, and cloud technologies**.
+Currently exploring **Full-stack development, backend systems, and data-driven applications**.
 
 ---
 
